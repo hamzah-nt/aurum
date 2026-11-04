@@ -1,0 +1,14 @@
+{
+  "name": "aurum",
+  "private": true,
+  "version": "0.1.0",
+  "description": "AURUM marketplace MVP",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:api": "npm run start:dev --workspace @aurum/api",
+    "dev:dashboard": "npm run dev --workspace @aurum/dashboard",
+    "dev:mobile": "npm run start --workspace @aurum/mobile"
+  }
+}
