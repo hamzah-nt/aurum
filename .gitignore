@@ -3,6 +3,8 @@ node_modules/
 dist/
 build/
 coverage/
+_scaffold/
+*.tsbuildinfo
 .env
 .env.*
 !.env.example

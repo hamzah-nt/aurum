@@ -18,4 +18,4 @@
 
 ## Collaboration
 
-The technical founder owns code, architecture, releases and technical security. The business founder supplies decisions and real operating rules (partner onboarding, inventory, booking/cancellation terms, driver checks, insurance, payment/legal advice, support). Record unresolved business rules as explicit assumptions; do not encode them as if confirmed.
+The technical founder owns code, architecture, releases and technical security. The business founder supplies decisions and real operating rules (partner onboarding, inventory, booking/cancellation terms, driver checks, insurance, payment/legal advice, support). Record unresolved business rules as explicit assumptions; do not encode them as if confirmed. Open product/legal/payment questions stay in [MVP requirements](requirements.md). Secret and environment rules are in [environment standards](environment.md).
